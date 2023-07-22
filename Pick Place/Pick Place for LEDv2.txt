@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\LEDv2\Project Outputs for LEDv2\Pick Place\Pick Place for LEDv2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22-07-23
+Time:       14:13
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description                        
+R2         360R         BottomLayer R0805     708.661       553.150       270      "RES SMD 360 OHM 1% 1/8W 0805"     
+D2         GREEN        BottomLayer LED0603G  708.661       307.087       90       "LED SM 0603 3V -/1000/-MCD GREEN" 
+R1         360R         TopLayer    R0805     216.536       492.126       270      "RES SMD 360 OHM 1% 1/8W 0805"     
+J1         "1x2 Header" TopLayer    HDR1x4    551.181       364.961       0        "CONN HEADER VERT 2POS 2.54MM"     
+D1         GREEN        TopLayer    LED0603G  216.536       177.165       90       "LED SM 0603 3V -/1000/-MCD GREEN" 
