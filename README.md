@@ -1,5 +1,4 @@
-# first_Altium_Designer
-First Project
+# LED PCB
 Welcome to my project! This is a PCB with two LEDs and two resistors connected to a Header 1x4. This project is made in Altium Designer. 
 
 ## PCB Schematic
